@@ -13,7 +13,11 @@ return new class extends Migration
     {
         Schema::create('alunos', function (Blueprint $table) {
             $table->id();
-            $table->timestamps();
+            $table->String('nome');
+            $table->String('email')->unique();
+            $table->String('telefone')->unique();
+            $table->String('motivoContato');
+            $table->String('mensagem');
         });
     }
 
@@ -25,3 +29,4 @@ return new class extends Migration
         Schema::dropIfExists('alunos');
     }
 };
+
