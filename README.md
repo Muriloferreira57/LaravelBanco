@@ -19,27 +19,41 @@ Nesta atividade irei seguir os seguintes passos:
 ## PASSO 1
 
 Para instalação do Laravel, execute os seguintes comando:
-c:\Users\jocimar\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-04-10 003248.png
+<p>
+<img width="665" height="176" alt="Captura de tela 2025-08-13 181303" src="https://github.com/user-attachments/assets/0530c695-ee6e-497a-b097-602ce94cde40" />
+</p>
+
 
 Agora com o framework instalado, vamos criar o repositório "Laravel_Banco".
-![alt text](image-1.png)
-![alt text](image-2.png)
+<p>
+<img width="556" height="426" alt="Captura de tela 2025-08-13 181603" src="https://github.com/user-attachments/assets/bd6c8c9f-7fe0-43dc-af43-e3d1fe90b0bc" />
+<img width="731" height="334" alt="Captura de tela 2025-08-13 181737" src="https://github.com/user-attachments/assets/fcbf4bcc-520a-4f53-bd05-1f97994ce87d" />
+
+</p>
 
 ## PASSO 2
 
 Agora com o framework laravel instalado e o repositório criado, vamos criar as migrates necessárias.
-![alt text](image-3.png)
+<p>
+<img width="803" height="98" alt="Captura de tela 2025-08-13 182352" src="https://github.com/user-attachments/assets/72f7fdbf-085f-4273-aebc-3ace714e98c8" />
+</p>
 
-A seguir vemos a criação da tabela user_alunos no repositório.
-![alt text](image-4.png)
+A seguir vemos a criação da tabela "alunos" no repositório.
+<p>
+<img width="379" height="580" alt="Captura de tela 2025-08-13 182453" src="https://github.com/user-attachments/assets/a9841a09-90fa-411f-939b-2d46b6998fef" />
+</p>
 
 ## PASSO 3
 No arquivo desta tabela, vamos indicar os campos da tabela e seus tipos de dados.
-![alt text](image-5.png)
+<img width="543" height="595" alt="Captura de tela 2025-08-13 182719" src="https://github.com/user-attachments/assets/10180167-8b42-4be7-9e47-dd2d016dcf1d" />
+
+
 
 ## PASSO 4
 Agora é só rodar o seguinte codigo para publicar as alterações e salvar o banco.
-![alt text](image-6.png)
+<img width="765" height="101" alt="Captura de tela 2025-08-13 183256" src="https://github.com/user-attachments/assets/638a5788-e6b1-4293-acd1-08627efa990d" />
+
+
 
 E enfim, o banco funcionando com os dados que definimos:
-![alt text](image-8.png)
+<img width="689" height="141" alt="Captura de tela 2025-08-13 183825" src="https://github.com/user-attachments/assets/f0e1308c-c3f4-4edf-a0b9-70e508fc0fc1" />
